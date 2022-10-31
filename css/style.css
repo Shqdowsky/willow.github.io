@@ -849,7 +849,9 @@ span {
   justify-content: space-between;
   align-items: center;
 }
-
+.menu__item{
+  margin-right: 20px;
+}
 .footer__logo {
   padding-right: 40px;
 }
